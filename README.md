@@ -1,5 +1,7 @@
 # dotnet-cpm-test
 
+This repo is a minimal repro of the [dotnet issue 47982](https://github.com/dotnet/sdk/issues/47982).
+
 ## Steps to reproduce the issue
 
 - From root of repo checkout, run the following commands:
